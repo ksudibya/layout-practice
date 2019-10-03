@@ -7,19 +7,6 @@
 
 # Box Model & Positioning
 
-### Blocks
+Your task is to implement the following mockup:
 
-- Have width of 100% of their parent
-- Height of 0
-- Height grows to match content
-- Stack one on top of each other
-
-
-
-
-
-> ✊ **Fist to Five**
-
-## Feedback
-
-> [Take a minute to give us feedback on this lesson so we can improve it!](https://forms.gle/vgUoXbzxPWf4oPCX6)
+![](box-model.png)
