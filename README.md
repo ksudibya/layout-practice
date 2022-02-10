@@ -8,4 +8,4 @@ Implement the following mockup using semantic HTML and CSS Grid:
 
 ## Bonus
 
-Add a fake navigation bar with links below the header. 
+Add a fake navigation bar with links below the header using flexbox.
